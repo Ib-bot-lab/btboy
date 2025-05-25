@@ -14986,7 +14986,7 @@ const Nv = new Uv(Rh),
                   style: { color: "aqua" },
                   children: Z.jsx("p", {
                     className: "padd",
-                    children: "Mush love from your Big Bro Emmanuel",
+                    children: "Much love from your Big Bro Emmanuel",
                   }),
                 }),
                 Z.jsxs("div", {
